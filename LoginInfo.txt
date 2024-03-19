@@ -1,0 +1,19 @@
+Super Admin:
+    username: admin
+    email: admin@littlelemon.com
+    pass: Admin@123!
+
+Delivery crew:
+    username: deliveryuser , deliveryuser2
+    email: deliveryuser@littlelemon.com , deliveryuser2@littlelemon.com
+    pass: deliver@123!
+
+Manager:
+    username: manageruser
+    email: manager@littlelemon.com
+    pass: manager@1234!
+
+USERS:
+    username: testuser , testuser2
+    email: testuser@littlelemon.com , testuser2@littlelemon.com
+    pass: user@123!
